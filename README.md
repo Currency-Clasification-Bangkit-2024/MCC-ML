@@ -1,4 +1,4 @@
-![TF](https://github.com/Mubazir-Bangkit-2023/mubazir-machine-learning/assets/95016158/cf4884a9-2a4d-4148-a5a7-24a57c009da0)
+![TF](https://github.com/Currency-Clasification-Bangkit-2024/MCC-ML/blob/main/assets/Header.png)
 
 # Multiple Images Detection & Classification
 Developing a deep learning model for money image detection & classification using Tensorflow and Y0L0: Creating a Convolutional Neural Network (CNN) model and You Only Look Once (Y0L0 model to detect and categorize scanned moneys with Tensorflow and Y0L0v8.

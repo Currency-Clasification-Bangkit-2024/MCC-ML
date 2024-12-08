@@ -35,11 +35,8 @@ The dataset used in this project consists of images depicting various types of I
 - Deploy the model using Fast Api
 
 ## Results
-The model achieved a test accuracy of 97% on the test dataset. The training and validation loss/accuracy plots can be found here.
-![acc](https://github.com/Mubazir-Bangkit-2023/mubazir-machine-learning/assets/95016158/6f2c7efe-5c95-42ad-9b88-568b92606d11)
-
-![loss](https://github.com/Mubazir-Bangkit-2023/mubazir-machine-learning/assets/95016158/64495ff1-56f3-4b27-a2d6-4597ce07d845)
-
+The model achieved 99.5% of mAP, 83.8% of precision, and 100% of recall. The performance can be found here.
+![acc](assets/results - yolo.png)
 
 ## Future Work
 - Expand the data set to include a wider variety of fruits and vegetables

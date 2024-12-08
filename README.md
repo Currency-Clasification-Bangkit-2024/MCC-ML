@@ -36,7 +36,7 @@ The dataset used in this project consists of images depicting various types of I
 
 ## Results
 The model achieved 99.5% of mAP, 83.8% of precision, and 100% of recall. The performance can be found here.
-![acc](assets/results - yolo.png)
+![acc](https://github.com/Currency-Clasification-Bangkit-2024/MCC-ML/blob/main/assets/results%20-%20yolo.png)
 
 ## Future Work
 - Expand the data set to include a wider variety of fruits and vegetables

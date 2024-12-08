@@ -1,19 +1,19 @@
 ![TF](https://github.com/Mubazir-Bangkit-2023/mubazir-machine-learning/assets/95016158/cf4884a9-2a4d-4148-a5a7-24a57c009da0)
 
-# Food Image Classification
-Developing a deep learning model for food image classification using Tensorflow: Creating a Convolutional Neural Network (CNN) model to categorize fruits and vegetables with Tensorflow.
+# Multiple Images Detection & Classification
+Developing a deep learning model for money image detection & classification using Tensorflow and Y0L0: Creating a Convolutional Neural Network (CNN) model and You Only Look Once (Y0L0 model to detect and categorize scanned moneys with Tensorflow and Y0L0v8.
 
 ## Project Overview
-The objective of this project is to construct a model capable of precisely categorizing images of fruits and vegetables into predetermined classes. This model has the potential to be incorporated into applications, enabling the automatic identification and classification of the fruit or vegetable type and determining its freshness based on images uploaded by users.
+The objective of this project is to develop two models capable of accurately detecting and categorizing images of Indonesian currency into predefined classes. These models could be integrated into applications and hardware, allowing for the automatic identification and classification of currency types based on images uploaded by users.
 
 ## Dataset
-The dataset employed in this project comprises images showcasing a variety of fruits and vegetables systematically arranged into distinct categories. Every image is annotated with the specific category of the fruit or vegetable and its corresponding freshness classification.
-- https://drive.google.com/drive/folders/1ebQa96MrdZYi1mj4PJUZbrDSyXWQ0xd-?usp=sharing
+The dataset used in this project consists of images depicting various types of Indonesian currency, systematically organized into distinct categories. Each image is annotated with the specific denomination of the currency and its corresponding condition classification.
+- https://drive.google.com/drive/folders/1DtAmzfoMY9rLRaWlSbCj_MKujhEI_cSw?usp=sharing
 
 ## Feature
 - Data Augmentation 
 - CNN (Convolutional Neural Networks)
-- Transfer Learning (Mobinenetv2)
+- Y0L0v8
 
 ## Requirements 
 - Tensorflow 
@@ -21,6 +21,8 @@ The dataset employed in this project comprises images showcasing a variety of fr
 - Numpy
 - Pillow
 - Scikit-learn
+- Ultralytics==8.0.196
+- roboflow
 
 ## Documentation
 - Conduct research related to machine learning models

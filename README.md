@@ -46,7 +46,7 @@ Once the images are cropped, they are preprocessed for the CNN model. This proce
 - Conduct research related to machine learning models
 - Collect Indonesian currency datasets
 - Split the dataset into 80% for the training set, 10% for the validation set, and 10% for the test test (Y0L0) model
-- Y0l0 model with roboflow
+- Yolo model with roboflow
 - Train, val, and test bost model separately
 - Deploy the model
 
@@ -59,7 +59,7 @@ Once the images are cropped, they are preprocessed for the CNN model. This proce
 - Train the model
 - Evaluate the machine learning model
 - Testing the model by uploading new test data that the model has never seen before
-- Export model to keras and h5 extention
+- Export model from keras to h5 extention
 
 ## Results Yolo
 The model achieved 99.5% of mAP, 83.8% of precision, and 100% of recall. The performance can be found here.

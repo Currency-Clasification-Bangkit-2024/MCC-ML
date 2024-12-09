@@ -6,16 +6,22 @@ Developing a deep learning model for money image detection & classification usin
 ## Project Overview
 The objective of this project is to develop two models capable of accurately detecting and categorizing images of Indonesian currency into predefined classes. These models could be integrated into applications and hardware, allowing for the automatic identification and classification of currency types based on images uploaded by users.
 
-## Dataset
+## Dataset Yolo
 The dataset used in this project consists of images depicting various types of Indonesian currency, systematically organized into distinct categories. Each image is annotated with the specific denomination of the currency and its corresponding condition classification.
 
 - Yolo: https://drive.google.com/drive/folders/1DtAmzfoMY9rLRaWlSbCj_MKujhEI_cSw?usp=sharing
+
+## Dataset CNN
+For the CNN model, each image is first annotated with labels corresponding to the specific denomination and condition of the Indonesian currency. After annotation, the images are cropped to focus on the currency itself, removing any unnecessary background. This cropping helps the model focus more on the key features that distinguish the different denominations and conditions of the currency.
+
+Once the images are cropped, they are preprocessed for the CNN model. This process includes steps such as resizing to a consistent dimension, followed by applying necessary data augmentation techniques in Colab. These steps prepare the dataset for training, ensuring that the CNN can effectively learn to classify the currency based on the annotated features.
+
 - CNN: https://drive.google.com/drive/folders/1LHaadqULyGbN-oDTdnVLmaxOXN4ah1Cf?usp=sharing
 
 ## Feature
 - Data Augmentation 
 - CNN (Convolutional Neural Networks)
-- Y0L0v8
+- YoLov8
 
 ## Requirements For Yolo
 - Tensorflow

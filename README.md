@@ -64,8 +64,9 @@ The model demonstrated outstanding performance, achieving an overall accuracy of
 - The highest precision (100%) was achieved for the 1ribu, 20ribu, 50ribu, and 5ribu classes.
 - The 2ribu class exhibited a slightly lower precision of 96%, but it achieved a perfect recall of 100%.
 - Recall values were near-perfect or perfect across all classes, with most classes scoring 99% or 100%.
-![acc](https://github.com/Currency-Clasification-Bangkit-2024/MCC-ML/blob/main/assets/result%20-%20CNN.png)
 ![acc](https://github.com/Currency-Clasification-Bangkit-2024/MCC-ML/blob/main/assets/accuracy%20and%20loss%20-%20CNN.jpg)
+![acc](https://github.com/Currency-Clasification-Bangkit-2024/MCC-ML/blob/main/assets/result%20-%20CNN.png)
+
 
 ## Future Work
 - Add and annotate additional images of Indonesian currency.

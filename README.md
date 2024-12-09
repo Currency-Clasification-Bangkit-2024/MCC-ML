@@ -8,8 +8,9 @@ The objective of this project is to develop two models capable of accurately det
 
 ## Dataset
 The dataset used in this project consists of images depicting various types of Indonesian currency, systematically organized into distinct categories. Each image is annotated with the specific denomination of the currency and its corresponding condition classification.
-Yolo: https://drive.google.com/drive/folders/1DtAmzfoMY9rLRaWlSbCj_MKujhEI_cSw?usp=sharing
-CNN: https://drive.google.com/drive/folders/1LHaadqULyGbN-oDTdnVLmaxOXN4ah1Cf?usp=sharing
+
+- Yolo: https://drive.google.com/drive/folders/1DtAmzfoMY9rLRaWlSbCj_MKujhEI_cSw?usp=sharing
+- CNN: https://drive.google.com/drive/folders/1LHaadqULyGbN-oDTdnVLmaxOXN4ah1Cf?usp=sharing
 
 ## Feature
 - Data Augmentation 
